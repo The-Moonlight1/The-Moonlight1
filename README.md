@@ -26,14 +26,6 @@ Here are some ideas to get you started:
 
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 </div>
 
 #  🙋 Hello
@@ -46,17 +38,15 @@ Here are some ideas to get you started:
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
-<p>&emsp;&emsp;大家好，我是严高琪。</p>
+<p>&emsp;&emsp;大家好，我是严高琪。就读于太原理工大学软件工程专业，大三er</p>
 <p>&emsp;&emsp;热爱编程、摄影、影视。</p>
 <p>&emsp;&emsp;励志成为一名优秀的前端开发工程师。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
 </td></tr>
 
 <tr>
 <td>
-  
+
+  <!--
 ### 🏢 Work Experience
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
@@ -66,7 +56,7 @@ Here are some ideas to get you started:
   - 工作岗位：Web前端开发工程师（初级）
   - 工作内容：GIS相关
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+<img align="right" width="88" src="./imgs/dora.jpeg" />
 
 - [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
   
@@ -77,23 +67,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr><td>
-
-<!-- 近期博客 -->
-### 📃 Recent Blog
-  
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/ohmyposh' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
-* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
-<!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
+ -->
 
 ### 🧠 Second Brain
 
@@ -110,7 +84,7 @@ Here are some ideas to get you started:
 </td></tr>
 
 <tr><td>
-
+<!--
 ### 🤾‍♂️ Funny Soul
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
@@ -126,67 +100,25 @@ Here are some ideas to get you started:
 </td></tr>
 
 <tr><td>
-
+-->
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=The-Moonlight1&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=The-Moonlight1&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=The-Moonlight1&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
 </td></tr>
 
 <tr><td>
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                270 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-🌆 Daytime                417 commits         ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-🌃 Evening                499 commits         █████████░░░░░░░░░░░░░░░░   35.87 % 
-🌙 Night                  205 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Wednesday                177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Thursday                 143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Friday                   353 commits         ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-Saturday                 147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Sunday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   21 hrs 47 mins      ███████████████████░░░░░░   77.95 % 
-TypeScript               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-HTML                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-JavaScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-
-🔥 Editors: 
-VS Code                  27 hrs 57 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  26 hrs 3 mins       ███████████████████████░░   93.19 % 
-Mac                      1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-```
 
 
  Last Updated on 26/07/2023 01:35:26 UTC
