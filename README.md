@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <div align="center">
     <!-- 跳转到个人博客页面 -->
     <a href="#">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);要天天开心!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=要天天开心!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
